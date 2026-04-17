@@ -1,4 +1,4 @@
-const ucapan = "Habede, Dini. Semoga di usia yang bertambah ini, kamu senantiasa diberikan kesehatan, kebahagiaan, dan kemudahan dalam segala hal yang sedang kamu jalani. Aku berharap semua cita-cita dan impian yang sedang kamu kejar bisa tercapai satu per satu dengan lancar. Tetaplah menjadi pribadi yang baik dan terus memberikan dampak positif bagi orang-orang di sekitarmu. Selamat merayakan hari spesialmu, semoga tahun ini membawa banyak cerita indah dan kesuksesan yang lebih besar dari tahun sebelumnya.";
+const ucapan = "Habede selamat ultah tahun yag ke 16 kii semoga panjang umur dan sehat selalu, semoge betah di smea, semoge pertemanan di smea an agek sakitt,uu nak nurut riskuy ajak umur 16,wish u all the bestt";
 
 function mulaiSurat() {
     // Hilangkan tombol amplop
