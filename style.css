@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesan Spesial Untuk Dini</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div id="wadah-bintang"></div>
+
+    <div class="wadah" id="kartu-utama">
+        <div class="pembungkus-amplop" onclick="mulaiSurat()" id="tombol-amplop">
+            <div class="amplop">📩</div>
+            <p id="petunjuk">Klik untuk membuka pesan</p>
+        </div>
+
+        <div id="konten-ultah" class="tersembunyi">
+            <div class="kotak-surat" id="kotak-kaca">
+                <h1 class="judul">HABEDE INGKI EH DINI 🎂</h1>
+                <p id="teks-ucapan"></p>
+                <p class="catatan-bawah">✨ Hari Spesial Dini ✨</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
